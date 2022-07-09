@@ -162,17 +162,27 @@ span{
     padding: 0 25%;
     color:whitesmoke;
 }
-.fifth-div{
+.fifth-section{
     display: flex;
-    width: 50%;
+    
 }
-.helpicon{
-    height: 30px;
-    width: 30px;
+.fifth-div{
+    
+    display: flex;
+    width: 90%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color:thistle;
+    border-radius: 20px;
+    
 }
-.fifth-div h3{
-    font-size: 20px;
+.fifth-div h1{
+    font-size: 50px;
+    font-family: serif;
 }
+
 
 
 
