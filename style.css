@@ -164,6 +164,10 @@ span{
 }
 .fifth-section{
     display: flex;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+   
     
 }
 .fifth-div{
@@ -171,18 +175,90 @@ span{
     display: flex;
     width: 90%;
     text-align: justify;
-    margin-top: 5%;
-    margin-left: 15%;
-    margin-right: 15%;
-    background-color:thistle;
+    background-color:rgb(240, 233, 240);
     border-radius: 20px;
-    
+    margin: 0 10px;
+   
 }
 .fifth-div h1{
     font-size: 50px;
     font-family: serif;
+  
 }
-
+.fifth-div p{
+    text-align: justify;
+    font-size: 20px;
+    color: grey;
+}
+.sixth-image-section{
+    display: flex;
+    width: 100%;
+    margin-top: 10%; 
+}
+.sixth-image-section img{
+    width: 100%;
+    border-radius: 30px;
+}
+.sixth-image-section div{
+    padding-left: 5%;
+    
+}
+.seven-section-text h1{
+    margin-top: 5%;
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: lighter;
+    color: cornflowerblue;
+}
+.seven-section-text p{
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    margin: 0 20%;
+    color: rebeccapurple;
+}
+.zakat-fund{
+    margin-top: 10%;
+    display: flex;
+    padding: 0 5%;
+    
+}
+.zakat-fund div{
+    background-color:black;
+}
+.zakat-fund h3{
+    color: white;
+    font-size: 30px;
+    font-family:cursive;
+    letter-spacing: 4px;    
+}
+.zakat-fund p{
+    font-size: x-large;
+    text-align: justify;
+   padding-right:15%;
+   color:tomato;
+}
+.zakat-fund a{
+    text-decoration: double;
+    color:white;
+    font-size:25px;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+.zakat-fund a:hover{
+    background-color: chartreuse;
+}
+footer{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color:cadetblue;
+    color: red;
+    padding: 20px;
+    
+}
 
 
 
